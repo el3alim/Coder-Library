@@ -1,18 +1,13 @@
 # Coder Library
 
-This is a showcase ecommerce web app for coding eBooks
+This is a showcase eCommerce web app for coding eBooks
 
 # Features:
 
-# Start JSON server:
+- ReactJS
+- TailwindCSS
 
-json-server --watch data/db.json --port 8000
-
-# Start JSON server with JSON server Auth as middleware:
-
-json-server data/db.json -m ./node_modules/json-server-auth --port 8000
-
-# Start JSON server with JSON server Auth as middleware:
+## Start JSON server with JSON server Auth as middleware:
 
 json-server data/db.json -m ./node_modules/json-server-auth -r data/routes.json --port 8000
 

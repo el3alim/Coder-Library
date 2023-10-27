@@ -19,4 +19,4 @@ password: userpassword
 
 # Backend Deployment
 
-# Studied and implemented at https://github.com/ShubhamSarda/taskmate-react
+# Studied and implemented at https://github.com/ShubhamSarda/codebook

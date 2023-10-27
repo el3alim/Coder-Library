@@ -6,6 +6,7 @@ This is a showcase eCommerce web app for coding eBooks
 
 - ReactJS
 - TailwindCSS
+-
 
 ## Start JSON server with JSON server Auth as middleware:
 
@@ -13,9 +14,11 @@ json-server data/db.json -m ./node_modules/json-server-auth -r data/routes.json 
 
 # Frontend Deployment
 
-sample user: Mustafa Mahmoud
-email: useremail@example.com
-password: userpassword
+Quick user login:
+
+- sample user: Mustafa Mahmoud
+- email: useremail@example.com
+- password: userpassword
 
 # Backend Deployment
 

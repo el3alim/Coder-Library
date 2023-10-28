@@ -8,7 +8,7 @@ This is a showcase eCommerce web app for coding eBooks
 - TailwindCSS
 -
 
-## Start JSON server with JSON server Auth as middleware:
+## Start JSON server with JSON server Auth as middleware locally:
 
 json-server data/db.json -m ./node_modules/json-server-auth -r data/routes.json --port 8000
 
@@ -16,12 +16,14 @@ json-server data/db.json -m ./node_modules/json-server-auth -r data/routes.json 
 
 https://coderlibrary.netlify.app/
 
-# Quick user login:
+# Demo user for quick login:
 
 - sample user: Mustafa Mahmoud
 - email: useremail@example.com
 - password: userpassword
 
-# Backend Deployment
+# Backend Deployed using render.com:
+
+https://coderlibrary-mock-server.onrender.com
 
 # Studied and implemented at https://github.com/ShubhamSarda/codebook

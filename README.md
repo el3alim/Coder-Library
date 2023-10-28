@@ -6,7 +6,21 @@ This is a showcase eCommerce web app for coding eBooks
 
 - ReactJS
 - TailwindCSS
--
+- State Management (Context/Reducer)
+- Dark / Light Themes
+- Mobile Responsive
+- Cart
+- Dashboard
+- Multi-Filter Products Section: price, rating, best-seller, in-stock
+- Search
+- Dynamic Database
+- Login
+- Register
+- Login as Guest
+- JSON Server
+- JSON Server Auth
+- Protected Routes
+- Toastify Error Handling
 
 ## Start JSON server with JSON server Auth as middleware locally:
 

@@ -22,8 +22,6 @@ https://coderlibrary.netlify.app/
 - email: useremail@example.com
 - password: userpassword
 
-# Backend Deployed using render.com:
-
-https://coderlibrary-mock-server.onrender.com
+# Backend Deployed using render.com
 
 # Studied and implemented at https://github.com/ShubhamSarda/codebook
